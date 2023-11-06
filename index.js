@@ -8,7 +8,7 @@ const names = [
     "R2-D2",
     "Hera",
 ];
-const occupations = ["jedi", "bounty hunter", "droid", "pilot"];
+const occupations = ["jedi", "bounty-hunter", "droid", "pilot"];
 
 const freelancers = [
     { name: "Alice", price: 30, occupation: "writer" },
